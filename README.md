@@ -2,7 +2,7 @@
 
 A simple yet powerful Task Calendar app built with React. It allows users to add, update, delete, and complete tasks using a reducer pattern and persistent state storage.
 
-## 🔧 Features
+## Features
 
 - Add new tasks with timestamps
 - Edit existing tasks
